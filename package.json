@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "grunt-contrib-copy": ">=0.3.x",
-    "grunt-frontend": "*"
+    "grunt-contrib-copy": "~0.3.x",
+    "grunt-frontend": "~1.0.x"
   },
   "devDependencies": {
     "grunt": "~0.3.17"
